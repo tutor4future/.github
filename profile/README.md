@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/141453170?s=200&v=4" alt="Tutor4Future Logo">
   <h1>Tutor4Future</h1>
   <h2>This isn't like other tutoring.</h2>
   <br>
