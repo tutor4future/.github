@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/141453170?s=200&v=4" alt="Tutor4Future Logo">
-  <h1>Tutor4Future</h1>
+  <img src="https://wavetutor.com/icons/icon-192.png" alt="Wave Tutor Logo">
+  <h1>Wave Tutor</h1>
   <h2>This isn't like other tutoring.</h2>
   <br>
-  <p>Enter Tutor4Future- innovative, AI-driven tutoring to propel your learning like never before.</p>
-  Currently hosted at <a href="https://wavetutor.com">https://tutor4future.vocabustudy.org.</a>
+  <p>Enter Wave Tutor- innovative tutoring to propel your learning like never before.</p>
+  Currently hosted at <a href="https://wavetutor.com">https://wavetutor.com.</a>
 </div>
